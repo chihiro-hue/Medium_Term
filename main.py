@@ -14,3 +14,4 @@ else:
     result = "Invalid operator"
 
 print("Result:", result)
+print("Oohhh!! Its a Diamond!!! A diamondd!!!!")
