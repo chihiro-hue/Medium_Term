@@ -15,3 +15,4 @@ else:
 
 print("Result:", result)
 print("Oohhh!! Its a Diamond!!! A diamondd!!!!")
+print("It's La Peace, its la peace, its la peace")
